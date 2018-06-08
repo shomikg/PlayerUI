@@ -35,3 +35,56 @@ body
     position: absolute;
     z-index: 99;
 }
+
+#main
+{
+    width: 25%;
+    background: white;
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+
+#image img
+{
+    width:100%;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    position:relative;
+    top:-1px;
+}
+
+#player
+{
+padding:25px;
+color:#333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
